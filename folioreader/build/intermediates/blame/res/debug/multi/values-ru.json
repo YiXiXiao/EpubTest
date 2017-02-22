@@ -1,0 +1,1128 @@
+[
+    {
+        "outputFile": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1805,
+                        "endColumn": 41,
+                        "endOffset": 1842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 68,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1911,
+                        "endColumn": 68,
+                        "endOffset": 1975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 33,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1771,
+                        "endColumn": 33,
+                        "endOffset": 1800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 63,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1847,
+                        "endColumn": 63,
+                        "endOffset": 1906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 114,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 114,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 107,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 107,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 122,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 122,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endColumn": 101,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 101,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 111,
+                    "endOffset": 819
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 111,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 824,
+                    "endColumn": 85,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 85,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 104,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 104,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 119,
+                    "endOffset": 1130
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 119,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1135,
+                    "endColumn": 78,
+                    "endOffset": 1209
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 78,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1214,
+                    "endColumn": 77,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 77,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1292,
+                    "endColumn": 79,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1083,
+                        "endColumn": 79,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 105,
+                    "endOffset": 1473
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 105,
+                        "endOffset": 1264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1478,
+                    "endColumn": 107,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1269,
+                        "endColumn": 107,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 97,
+                    "endOffset": 1679
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1377,
+                        "endColumn": 97,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1684,
+                    "endColumn": 108,
+                    "endOffset": 1788
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 108,
+                        "endOffset": 1579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1793,
+                    "endColumn": 105,
+                    "endOffset": 1894
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endColumn": 105,
+                        "endOffset": 1685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1899,
+                    "endColumn": 107,
+                    "endOffset": 2002
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1690,
+                        "endColumn": 107,
+                        "endOffset": 1793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2007,
+                    "endColumn": 135,
+                    "endOffset": 2138
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1798,
+                        "endColumn": 135,
+                        "endOffset": 1929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2143,
+                    "endColumn": 99,
+                    "endOffset": 2238
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 99,
+                        "endOffset": 2029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2243,
+                    "endColumn": 69,
+                    "endOffset": 2308
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 774,
+                        "endColumn": 78,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2313,
+                    "endColumn": 54,
+                    "endOffset": 2363
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 54,
+                        "endOffset": 1687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2368,
+                    "endColumn": 54,
+                    "endOffset": 2418
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1523,
+                        "endColumn": 54,
+                        "endOffset": 1573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2423,
+                    "endColumn": 58,
+                    "endOffset": 2477
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1578,
+                        "endColumn": 58,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2482,
+                    "endColumn": 47,
+                    "endOffset": 2525
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2432,
+                        "endColumn": 47,
+                        "endOffset": 2475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2530,
+                    "endColumn": 78,
+                    "endOffset": 2604
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 87,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2609,
+                    "endColumn": 46,
+                    "endOffset": 2651
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 46,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2656,
+                    "endColumn": 43,
+                    "endOffset": 2695
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 43,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2700,
+                    "endColumn": 45,
+                    "endOffset": 2741
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 45,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2746,
+                    "endColumn": 76,
+                    "endOffset": 2818
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1188,
+                        "endColumn": 85,
+                        "endOffset": 1269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2823,
+                    "endColumn": 61,
+                    "endOffset": 2880
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2241,
+                        "endColumn": 61,
+                        "endOffset": 2298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2885,
+                    "endColumn": 78,
+                    "endOffset": 2959
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1692,
+                        "endColumn": 78,
+                        "endOffset": 1766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2964,
+                    "endColumn": 46,
+                    "endOffset": 3006
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 46,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3011,
+                    "endColumn": 49,
+                    "endOffset": 3056
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 604,
+                        "endColumn": 49,
+                        "endOffset": 649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3061,
+                    "endColumn": 75,
+                    "endOffset": 3132
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 87,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3137,
+                    "endColumn": 61,
+                    "endOffset": 3194
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 138,
+                        "endColumn": 66,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3199,
+                    "endColumn": 44,
+                    "endOffset": 3239
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1980,
+                        "endColumn": 44,
+                        "endOffset": 2020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3244,
+                    "endColumn": 54,
+                    "endOffset": 3294
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 78,
+                        "endColumn": 59,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3299,
+                    "endColumn": 55,
+                    "endOffset": 3350
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 60,
+                        "endOffset": 73
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3355,
+                    "endColumn": 59,
+                    "endOffset": 3410
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 59,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3415,
+                    "endColumn": 60,
+                    "endOffset": 3471
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endColumn": 60,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3476,
+                    "endColumn": 72,
+                    "endOffset": 3544
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2359,
+                        "endColumn": 72,
+                        "endOffset": 2427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3549,
+                    "endColumn": 64,
+                    "endOffset": 3609
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2025,
+                        "endColumn": 64,
+                        "endOffset": 2085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3614,
+                    "endColumn": 150,
+                    "endOffset": 3760
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2090,
+                        "endColumn": 150,
+                        "endOffset": 2236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3765,
+                    "endColumn": 74,
+                    "endOffset": 3835
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 83,
+                        "endOffset": 1108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3840,
+                    "endColumn": 67,
+                    "endOffset": 3903
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1274,
+                        "endColumn": 76,
+                        "endOffset": 1346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3908,
+                    "endColumn": 55,
+                    "endOffset": 3959
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2303,
+                        "endColumn": 55,
+                        "endOffset": 2354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3964,
+                    "endColumn": 80,
+                    "endOffset": 4040
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2034,
+                        "endColumn": 80,
+                        "endOffset": 2110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4045,
+                    "endColumn": 45,
+                    "endOffset": 4086
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 45,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4091,
+                    "endColumn": 44,
+                    "endOffset": 4131
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 44,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4136,
+                    "endColumn": 100,
+                    "endOffset": 4232
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2115,
+                        "endColumn": 100,
+                        "endOffset": 2211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4237,
+                    "endColumn": 39,
+                    "endOffset": 4272
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 654,
+                        "endColumn": 39,
+                        "endOffset": 689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4277,
+                    "endColumn": 78,
+                    "endOffset": 4351
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1351,
+                        "endColumn": 87,
+                        "endOffset": 1434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4356,
+                    "endColumn": 70,
+                    "endOffset": 4422
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endColumn": 79,
+                        "endOffset": 769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4427,
+                    "endColumn": 74,
+                    "endOffset": 4497
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1439,
+                        "endColumn": 83,
+                        "endOffset": 1518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4502,
+                    "endColumn": 65,
+                    "endOffset": 4563
+                },
+                "from": {
+                    "file": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/values-ru/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1113,
+                        "endColumn": 74,
+                        "endOffset": 1183
+                    }
+                }
+            }
+        ]
+    }
+]

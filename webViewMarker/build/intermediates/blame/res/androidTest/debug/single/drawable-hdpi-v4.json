@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/webViewMarker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/text_select_handle_right.png",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/webViewMarker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/text_select_handle_right.png"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/webViewMarker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/text_select_handle_left.png",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/webViewMarker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/text_select_handle_left.png"
+    }
+]

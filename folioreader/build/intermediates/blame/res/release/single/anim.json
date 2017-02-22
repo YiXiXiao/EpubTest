@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/disappear.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/disappear.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/slide_in_up.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/fadeout.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/fadeout.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/shrink_from_bottom.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/shrink_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/shrink_from_top.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/shrink_from_top.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/slide_out_up.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/slide_out_up.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/design_fab_in.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/exit_to_left.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/exit_to_left.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/pump_top.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/pump_top.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/enter_from_left.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/enter_from_left.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/grow_from_topright_to_bottomleft.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/grow_from_bottom.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/grow_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/grow_from_topleft_to_bottomright.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/pump_bottom.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/pump_bottom.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/shrink_from_bottomleft_to_topright.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/grow_from_bottomleft_to_topright.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/grow_from_top.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/grow_from_top.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/shrink_from_bottomright_to_topleft.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/fadein.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/fadein.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/shrink_from_topright_to_bottomleft.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/shrink_from_topleft_to_bottomright.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/grow_from_bottomright_to_topleft.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/exit_to_right.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/exit_to_right.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/design_fab_out.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/release/anim/enter_from_right.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/anim/enter_from_right.xml"
+    }
+]

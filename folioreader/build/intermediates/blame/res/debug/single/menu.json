@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/debug/menu/context_menu.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/menu/context_menu.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/debug/menu/menu_text_selection.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/menu/menu_text_selection.xml"
+    },
+    {
+        "merged": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/build/intermediates/res/merged/debug/menu/menu_on_highlight.xml",
+        "source": "/Users/hxfy/Documents/workSpace/EpubTest/folioreader/res/menu/menu_on_highlight.xml"
+    }
+]
